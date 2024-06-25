@@ -1,0 +1,36 @@
+export default [
+  {
+    id: 1,
+    postedOn: "2024-1-28",
+    title: "iOs Developer",
+    company: "Apple",
+    type: "Full Time",
+    experience: "Mid Level",
+    location: "In-office",
+    skills: ["SwiftUI", "UiKit", "Core Data"],
+    jobLink: "https://www.apple.com/careers/us/",
+  },
+  {
+    id: 2,
+    postedOn: "2024-1-28",
+    title: "Frontend Developer",
+    company: "Amazon",
+    type: "Full Time",
+    experience: "Fresher",
+    location: "Remote",
+    skills: ["JavaScript", "Next.js", "Tailwind CSS"],
+    jobLink: "https://www.amazon.jobs/en/",
+  },
+  {
+    id: 3,
+    postedOn: "2024-1-28",
+    title: "Full Stack Developer",
+    company: "Facebook",
+    type: "Full Time",
+    experience: "Fresher",
+    location: "Hybrid",
+    skills: ["JavaScript", "React", "Tailwind CSS"],
+    jobLink:
+      "https://www.metacareers.com/areas-of-work/Facebook%20App/?p[divisions][0]=Facebook&divisions[0]=Facebook",
+  },
+];
